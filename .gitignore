@@ -1,5 +1,7 @@
 db.sqlite3
 mysite/__pycache__/*
+polls/__pycache__/*
+polls/migrations/__pycache__/*
 .idea/**/workspace.xml 
 .idea/**/tasks.xml 
 .idea/dictionaries 
